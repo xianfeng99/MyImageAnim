@@ -1,1 +1,2 @@
 # MyImageAnim
+Simple bitmap animation
