@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageAnimView">
+        <attr name="itemSize" format="integer"/>
+        <attr name="imagePath" format="string" />
+        <attr name="itemType" format="integer">
+            <enum name="stardard" value="1"/>
+            <enum name="reapat" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
